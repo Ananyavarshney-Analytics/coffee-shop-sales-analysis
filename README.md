@@ -56,15 +56,14 @@ This dashboard helps transform raw sales data into actionable business insights.
 - Business Insight Generation
 - KPI Tracking and Reporting
 
-## 📂 Project Structure
+## 📁 Project Structure
 
-```
 coffee-shop-sales-analysis/
-│
-├── Coffee Shop Sales.xlsx
+
+├── Coffee Shop Sales .ipynb
+├── Coffee_sales Query.sql
 ├── Coffee_Sales.png
 └── README.md
-```
 
 ## 📬 Contact
 
